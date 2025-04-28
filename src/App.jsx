@@ -18,7 +18,7 @@ import TermsOfService from "./pages/TermsOfService";
 import PricingPolicy from "./pages/PricingPolicy";
 import EditorialPolicy from "./pages/EditorialPolicy";
 import GetStarted from "./Components/GetStarted";
-import SignUp from "./Components/Signup";
+import SignUp from "./Components/SignUp";
 
 function App() {
   return (
